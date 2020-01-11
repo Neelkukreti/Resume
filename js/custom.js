@@ -160,6 +160,7 @@ $(document).ready(function () {
         animatedIn: 'fadeIn',
         animatedOut: 'bounceOutDown'
       });
+     
     // Contact Form 	
 
     // validate contact form
