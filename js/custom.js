@@ -160,6 +160,26 @@ $(document).ready(function () {
         animatedIn: 'fadeIn',
         animatedOut: 'bounceOutDown'
       });
+      $("#demo15").animatedModal({
+        modalTarget: 'WaterTank',
+        animatedIn: 'fadeIn',
+        animatedOut: 'bounceOutDown'
+      });
+      $("#demo16").animatedModal({
+        modalTarget: 'Bounce',
+        animatedIn: 'fadeIn',
+        animatedOut: 'bounceOutDown'
+      });
+      $("#demo17").animatedModal({
+        modalTarget: 'Remove',
+        animatedIn: 'fadeIn',
+        animatedOut: 'bounceOutDown'
+      });
+      $("#demo18").animatedModal({
+        modalTarget: 'ARSim',
+        animatedIn: 'fadeIn',
+        animatedOut: 'bounceOutDown'
+      });
      
     // Contact Form 	
 
