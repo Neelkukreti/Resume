@@ -801,3 +801,18 @@ fieldset {
         font-size: 10px;
     }
 }
+
+
+/****************************icon color*****************************************/
+.face{
+color: #3b5998;
+}
+.git{
+    color: #333;
+}
+.insta{
+    color: #405DE6;
+}
+.link{
+    color: #0e76a8;
+}
